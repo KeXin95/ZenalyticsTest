@@ -42,11 +42,11 @@ Please ensure you have the following packages installed:
 #### For scrapping data from the website:
 1. First of all, notice that **table header** and **table contents** are being stored in two different table tags, one with class name  "data data--head", the other with "data data--body":
 
-![table.png](screenshots/table.png?raw=true)
+![table.png](screenshots/table.PNG?raw=true)
 
 2. Secondly, each cell are being stored nicely according to attributes **data-label** with value same as header name
 
-![table_content.png](screenshots/table_content.png?raw=true)
+![table_content.png](screenshots/table_content.PNG?raw=true)
 
 3. Scrape all the headers first and then use each values in headers to extract columns of each header name.
 
