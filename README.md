@@ -1,5 +1,4 @@
 # Zenalytics Test
-### Instruction for using this program
 *by [Ke Xin](https://github.com/KeXin95)*
 
 *Date last updated: 8th May 2018 </i>*
